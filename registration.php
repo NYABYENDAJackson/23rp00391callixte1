@@ -7,6 +7,7 @@
     <title>Register</title>
 </head>
 <body>
+    //registration form
 <main>
     <form action="register.php" method="post">
         <h1>Sign Up</h1>
