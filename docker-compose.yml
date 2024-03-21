@@ -12,7 +12,7 @@ services:
     environment:
       - MYSQL_DATABASE=schooldb
       - MYSQL_ALLOW_EMPTY_PASSWORD=yes
-  phpmyadmin:
+  23rp00391-phpmyadmin:
     image: phpmyadmin/phpmyadmin
     environment:
       - PMA_HOST=mysql
