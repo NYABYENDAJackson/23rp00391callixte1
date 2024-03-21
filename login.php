@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +11,6 @@
 <body>
 Username:<input type="text" name="email" id="email"><br>
 Pasword:<input type="password" name="password" id="password"><br>
-<a  href="userlogged.php" id="p"><button type="submit">login</button></a>
 <a  href="userlogged.php" id="p"><button type="submit">login</button></a>
 </body>
 </html>

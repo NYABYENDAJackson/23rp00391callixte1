@@ -11,5 +11,6 @@
 </html>
 <?php
 echo "well logged in"
+
 ?>
 <a  href="login.php" id="p"> signout</a>
