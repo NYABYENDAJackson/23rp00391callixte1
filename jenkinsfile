@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('MOnitoring running') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
+}
