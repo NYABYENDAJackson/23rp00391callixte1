@@ -21,7 +21,7 @@ $email=$_POST['email'];
 $user_password=$_POST['password'];
 $sql="INSERT INTO registration SET fnames='$firstname', lnames='$lastname', gender='$gender',email='$email',password='$user_password',,";
 $quer =mysqli_query($dbconn,$sql);
-header("location:index.php");
+header("location:registration.php");
 } ?>
 
 
