@@ -30,7 +30,8 @@
     
         </div>
         <button type="submit">Register</button>
-        <footer>Already a member? <a href="login.php">Login here</a></footer>
+        <a  href="userlogged.php" id="p"></a></td>
+        <footer><a href="login.php">register</a></footer>
     </form>
 </main>
 </body>
