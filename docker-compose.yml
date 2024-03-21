@@ -3,7 +3,7 @@ services:
   23rp00391-php:
     build: .
     ports:
-      - 8085:80
+      - 8082:80
     volumes:
       - ./:/var/www/html
   23rp00391-mysql:
