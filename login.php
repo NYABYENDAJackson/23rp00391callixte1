@@ -8,6 +8,7 @@
 <body>
 <input type="text" name="email" id="email">
 <input type="password" name="password" id="password">
-<button type="submit">login</button>
+<button type="submit">login</button><br>
+<a><href="userlogged">login</a>
 </body>
 </html>
