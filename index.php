@@ -17,7 +17,7 @@
 <input type="password" id="password" name="password" required>
 
 <input type="submit" value="Login">
-
+<a  href="registration.php" id="p">register</a></td>
 </form>
 </body>
 </html>

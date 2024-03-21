@@ -6,9 +6,9 @@
     <title>login page</title>
 </head>
 <body>
-<input type="text" name="email" id="email">
-<input type="password" name="password" id="password">
-<button type="submit">login</button><br>
-<a  href="userlogged.php" id="p">login</a></td>
+Username:<input type="text" name="email" id="email"><br>
+Pasword:<input type="password" name="password" id="password"><br>
+<a  href="userlogged.php" id="p"><button type="submit">login</button></a>
+<a  href="userlogged.php" id="p"><button type="submit">login</button></a>
 </body>
 </html>

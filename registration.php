@@ -21,7 +21,8 @@
         </div>
         <div>
             <label for="gender">gender:</label>
-            <input type="radio" name="radio" id="email">
+            male:<input type="radio" name="radio" id="email">
+            female:<input type="radio" name="radio" id="email">
         </div>
         <div>
             <label for="email">email:</label>
@@ -31,7 +32,7 @@
         </div>
         <button type="submit">Register</button>
         <a  href="userlogged.php" id="p"></a></td>
-        <footer><a href="login.php">register</a></footer>
+        <footer><a href="login.php">click here to login</a></footer>
     </form>
 </main>
 </body>
