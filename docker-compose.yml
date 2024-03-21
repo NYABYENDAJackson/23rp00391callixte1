@@ -12,10 +12,10 @@ services:
     environment:
       - MYSQL_DATABASE=schooldb
       - MYSQL_ALLOW_EMPTY_PASSWORD=yes
-  23rp00391-phpmyadmin:
+  phpmyadmin:
     image: phpmyadmin/phpmyadmin
     environment:
       - PMA_HOST=mysql
       - PMA_PORT=3306
     ports:
-      - 8084:80
+      - 8086:80
